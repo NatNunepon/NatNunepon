@@ -1,4 +1,4 @@
-## Oioi! 👋
+## Olá!, Aqui quem coda é a Nat! 👋
 <h1 align="center">🌷✨ Olá, eu sou a <strong>Natally Nunes Pontes</strong> ✨🌷</h1>
 
 <p align="center">
