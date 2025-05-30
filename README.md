@@ -1,5 +1,5 @@
 ## Oioi! 👋
-<h1 align="center">🌷✨ Olá, eu sou a <strong>[Seu Nome]</strong> ✨🌷</h1>
+<h1 align="center">🌷✨ Olá, eu sou a <strong>Natally Nunes Pontes</strong> ✨🌷</h1>
 
 <p align="center">
 🐍 Desenvolvedora apaixonada por código, design e tudo que é <em>pink</em>! 🌸<br>
@@ -11,8 +11,8 @@
 
 ### 🌼 Sobre mim
 - 🎓 Estudante de Sistema da informação — apaixonada por aprender sempre.
-- 💖 Amo frontend, design, e deixar tudo bem bonitinho.
-- 🌱 Atualmente estudando: React, TypeScript e um pouquinho de UX/UI.
+- 💖 Amo frontend, dados, IA, design, e deixar tudo bem bonitinho.
+- 🌱 Atualmente estudando: Java, Aws e um pouquinho de UX/UI.
 - 🐍 Meu mascote favorito no código? A cobrinha do Python, claro! 💕
 
 ---
