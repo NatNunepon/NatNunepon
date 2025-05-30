@@ -1,5 +1,5 @@
-## Olá!, Aqui quem coda é a Nat! 👋
-<h1 align="center">🌷✨ Olá, eu sou a <strong>Natally Nunes Pontes</strong> ✨🌷</h1>
+## 👋 Olá!, aqui quem coda é a Nat! 
+<h1 align="center">🌷✨ Olá, eu sou a <strong>Natally Nunes Pontes</strong>✨🌷</h1>
 
 <p align="center">
 🐍 Desenvolvedora apaixonada por código, design e tudo que é <em>pink</em>! 🌸<br>
