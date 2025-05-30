@@ -1,4 +1,6 @@
-# 👋 Olá!, aqui quem coda é a Nat! <br><h1 align="center">🌷✨ Olá, eu sou a <strong>Natally Nunes Pontes</strong>✨🌷</h1><br><br><p align="center"><br>🐍 Desenvolvedora apaixonada por código, design e tudo que é <em>pink</em>! 🌸<br><br>💻 Transformando linhas de código em projetos encantadores.<br><br>🎀 Bem-vind@ ao meu cantinho no GitHub!<br></p><br><br>
+# 👋 Olá!, aqui quem coda é a Nat! <br><h1 align="center">
+
+##🌷✨ Olá, eu sou a <strong>Natally Nunes Pontes</strong>✨🌷</h1><br><br><p align="center"><br>🐍 Desenvolvedora apaixonada por código, design e tudo que é <em>pink</em>! 🌸<br><br>💻 Transformando linhas de código em projetos encantadores.<br><br>🎀 Bem-vind@ ao meu cantinho no GitHub!<br></p><br><br>
 
 ## 🌼 Sobre mim
 - 🎓 Estudante de Sistema da informação — apaixonada por aprender sempre.
