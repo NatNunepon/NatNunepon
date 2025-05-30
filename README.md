@@ -1,6 +1,11 @@
 # 💫 Sobre mim:
-## 👋 Olá!, aqui quem coda é a Nat! <br><h1 align="center">🌷✨ Olá, eu sou a <strong>Natally Nunes Pontes</strong>✨🌷</h1><br><br><p align="center"><br>🐍 Desenvolvedora apaixonada por código, design e tudo que é <em>pink</em>! 🌸<br><br>💻 Transformando linhas de código em projetos encantadores.<br><br>🎀 Bem-vind@ ao meu cantinho no GitHub!<br></p><br><br>---<br><br>### 🌼 Sobre mim<br>- 🎓 Estudante de Sistema da informação — apaixonada por aprender sempre.<br>- 💖 Amo frontend, dados, IA, design, e deixar tudo bem bonitinho.<br>- 🌱 Atualmente estudando: Java, Aws e um pouquinho de UX/UI.<br>- 🐍 Meu mascote favorito no código? A cobrinha do Python, claro! 💕<br>
+## 👋 Olá!, aqui quem coda é a Nat! <br><h1 align="center">🌷✨ Olá, eu sou a <strong>Natally Nunes Pontes</strong>✨🌷</h1><br><br><p align="center"><br>🐍 Desenvolvedora apaixonada por código, design e tudo que é <em>pink</em>! 🌸<br><br>💻 Transformando linhas de código em projetos encantadores.<br><br>🎀 Bem-vind@ ao meu cantinho no GitHub!<br></p><br><br>---<br><br>
 
+### 🌼 Sobre mim
+- 🎓 Estudante de Sistema da informação — apaixonada por aprender sempre.
+- 💖 Amo frontend, dados, IA, design, e deixar tudo bem bonitinho.
+- 🌱 Atualmente estudando: Java, Aws e um pouquinho de UX/UI.
+- 🐍 Meu mascote favorito no código? A cobrinha do Python, claro! 💕
 
 ## 💫 Conecte-se comigo:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/natnunepon/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/natally-nunes-pontes-77608128a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nat.nunepontes@gmail.com) 
