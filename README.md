@@ -46,8 +46,8 @@
 ![](https://streak-stats.demolab.com?user=NatNunepon&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NatNunepon&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Troféus do Git
-![](https://github-profile-trophy.vercel.app/?username=NatNunepon&theme=rose_pine&no-frame=true&no-bg=false&margin-w=4)
+## 🏆 Trofeus do Git
+![](https://github-profile-trophy.vercel.app/?username=NatNunepon&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine)
